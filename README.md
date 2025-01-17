@@ -28,7 +28,8 @@ The Simple RNN model consists of the following layers:
 1. **Embedding Layer:** Converts word indices to dense vectors of fixed size.
 2. **Simple RNN Layer:** Processes sequences of embeddings to capture temporal dependencies.
 3. **Dense Layer:** Fully connected layer with a single neuron and sigmoid activation for binary classification.
-   ## [Model Summary](#modelsummary) 
+
+## [Model Summary](#modelsummary) 
 ![rnnsummary](https://github.com/user-attachments/assets/f7e6eacb-f7eb-4ead-b846-db1a7c926193)
 
 
@@ -54,7 +55,8 @@ The Simple RNN model consists of the following layers:
    streamlit run main.py
    ```
  4. Enter the movie review & classify  it as positive or negative.
-    ## Web app
+##[Web app](#webapp)
+-------------
  ![good review](https://github.com/user-attachments/assets/311a7e00-c423-4f76-af3b-a824b157b7b1)
 
   ![badreviw](https://github.com/user-attachments/assets/8b42e2e9-187c-4b67-8144-5ba5bf35d979)
