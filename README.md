@@ -55,7 +55,7 @@ The Simple RNN model consists of the following layers:
    streamlit run main.py
    ```
  4. Enter the movie review & classify  it as positive or negative.
-##[Web app](#webapp)
+## [Web app](#webapp)
 -------------
  ![good review](https://github.com/user-attachments/assets/311a7e00-c423-4f76-af3b-a824b157b7b1)
 
