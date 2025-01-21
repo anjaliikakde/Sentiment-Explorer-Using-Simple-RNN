@@ -10,8 +10,6 @@ This project demonstrates how to use a Simple Recurrent Neural Network (RNN) to 
 
 Sentiment analysis is a common task in natural language processing (NLP) that involves determining the emotional tone behind a text. In this project, we use the IMDb dataset, a collection of movie reviews labeled as positive or negative, to train and evaluate a Simple RNN model.
 
----
-
 ## Dataset
 
 The dataset is part of the TensorFlow/Keras library and can be directly loaded using:
@@ -19,7 +17,6 @@ python
 ``` bash
      from tensorflow.keras.datasets import imdb
 ```
----
 
 ## Model Architecture
 
@@ -33,7 +30,6 @@ The Simple RNN model consists of the following layers:
 ![rnnsummary](https://github.com/user-attachments/assets/f7e6eacb-f7eb-4ead-b846-db1a7c926193)
 
 
----
 
 ## Prerequisites
 
@@ -42,7 +38,6 @@ The Simple RNN model consists of the following layers:
 - NumPy
 - Matplotlib (optional, for visualization)
 
----
 ## Run the code using steps -
 
 1. Clone the repository 
